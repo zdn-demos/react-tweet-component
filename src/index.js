@@ -7,7 +7,12 @@ import { Tweet } from './components/tweet';
 class App extends Component {
   render() {
     return (
-      <Tweet />
+      <Tweet
+        message="This is less than 140 charssss."
+        time="3h ago"
+        handle="user"
+        name="Mr. User Pants"
+      />
     );
   }
 }

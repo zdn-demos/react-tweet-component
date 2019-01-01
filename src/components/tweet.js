@@ -29,8 +29,8 @@ export class Tweet extends React.Component {
       <div className="tweet">
         <Avatar />
         <div className="content">
-          <NameWithHandle /><Time />
-          <Message />
+          <NameWithHandle name={this.props.name} handle={this.props.handle} /><Time value={this.props.time} />
+          <Message content={this.props.message} />
           <div className="buttons">
             <ReplyButton />
             <RetweetButton />

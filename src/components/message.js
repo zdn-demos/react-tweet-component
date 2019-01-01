@@ -4,7 +4,7 @@ export class Message extends React.Component {
   render() {
     return (
       <div className="message">
-        This is less than 140 characters.
+        {this.props.content}
       </div>
     );
   }
