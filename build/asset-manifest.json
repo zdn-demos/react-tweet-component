@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.8813333f.chunk.css",
-  "main.js": "/static/js/main.6ab43095.chunk.js",
-  "main.js.map": "/static/js/main.6ab43095.chunk.js.map",
-  "static/js/1.c4200f4e.chunk.js": "/static/js/1.c4200f4e.chunk.js",
-  "static/js/1.c4200f4e.chunk.js.map": "/static/js/1.c4200f4e.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.8813333f.chunk.css.map": "/static/css/main.8813333f.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.df97b900e5649d306880257e87b53bf4.js": "/precache-manifest.df97b900e5649d306880257e87b53bf4.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/react-tweet-component/static/css/main.8813333f.chunk.css",
+  "main.js": "/react-tweet-component/static/js/main.6ab43095.chunk.js",
+  "main.js.map": "/react-tweet-component/static/js/main.6ab43095.chunk.js.map",
+  "static/js/1.c4200f4e.chunk.js": "/react-tweet-component/static/js/1.c4200f4e.chunk.js",
+  "static/js/1.c4200f4e.chunk.js.map": "/react-tweet-component/static/js/1.c4200f4e.chunk.js.map",
+  "runtime~main.js": "/react-tweet-component/static/js/runtime~main.a64ce166.js",
+  "runtime~main.js.map": "/react-tweet-component/static/js/runtime~main.a64ce166.js.map",
+  "static/css/main.8813333f.chunk.css.map": "/react-tweet-component/static/css/main.8813333f.chunk.css.map",
+  "index.html": "/react-tweet-component/index.html",
+  "precache-manifest.7d89d479106fb361c0f21d69512bcd3d.js": "/react-tweet-component/precache-manifest.7d89d479106fb361c0f21d69512bcd3d.js",
+  "service-worker.js": "/react-tweet-component/service-worker.js"
 }
